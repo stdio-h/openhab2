@@ -19,6 +19,7 @@
 	<module>org.openhab.binding.sonos</module>
     <module>org.openhab.binding.max</module>
     <module>org.openhab.binding.networkhealth</module>
+    <module>org.openhab.binding.milight</module>
   </modules>
 
 </project>
